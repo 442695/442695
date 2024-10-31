@@ -7,17 +7,17 @@
 - ⚡ Dato curioso sobre mí: Soy maestra de educación infantil y estudio esto para aplicar mis conocimientos en mi ámbito laboral
 
 
-## **1. Entidad Educativa:**
+## **1. Entidad Educativa🏫:**
 
 Estudio en el Centro Integral de Formación Profesional a Distancia "La Conservera" en la Región de Murcia.
 
 
-## **2. Nivel Educativo:**
+## **2. Nivel Educativo✏️:**
 
 Actualmente estoy matriculada en Formación Profesional de Grado Superior, en el técnico superior en Desarrollo de Aplicaciones Multiplataforma.
 
 
-## **3. Asignaturas Matriculadas:**
+## **3. Asignaturas Matriculadas📚:**
 
 	- Inglés
 	- Entornos de desarrollo
@@ -29,14 +29,14 @@ Actualmente estoy matriculada en Formación Profesional de Grado Superior, en el
 	- ~Itinerario personal para la empleabilidad I~
 
 
-## **4. Stack Tecnológico Conocido:**
+## **4. Stack Tecnológico Conocido💻:**
 
 	- JavaScript
 	- VSCode
 	- HTML
  
 
-## *5. Stack Tecnológico del Curso:*
+## *5. Stack Tecnológico del Curso💻:*
 
 	- Frameworks:
 		- .NET
